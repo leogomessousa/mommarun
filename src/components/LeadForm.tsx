@@ -77,7 +77,8 @@ export function LeadForm({ formRef, onSuccess, onError }: Props) {
 
           20 de junho:<br />
           Você recebe um e-mail e link no nosso grupo com acesso à pré-venda<br />
-
+          De R$349,00 por R$299,00<br />
+          E você ainda leva um gelato Momma P 💚<br />  
           Link exclusivo válido por 24h<br /><br />
 
           A partir de 21 de junho:<br />
